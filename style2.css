@@ -1,0 +1,36 @@
+style2.css
+body {
+background-color: #0c0b0b;}
+form {
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #0c0b0b;
+    max-width: 500px;
+}
+input[type="email"],
+input[type="password"] {
+    padding: 10px;
+    margin: 15px;
+    border-radius: 3px;
+    width: 90%;
+}
+input[type="submit"] {
+    background-color: #e50914;
+    border-radius: 5px;
+
+}
+input[type="button"]{
+    background-color: #e50914;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+h1{
+    color: #fff;
+}
+h1.a{
+    font-size: 50px;
+    text-align: center;
+    color: #e50914;
+}
+
